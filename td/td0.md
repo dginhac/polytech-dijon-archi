@@ -60,4 +60,4 @@ Vous devriez voir apparaître une vue ressemblant à l'image ci-dessous.
 ![Vue du simulateur](https://github.com/dginhac/arm-simulateur/blob/master/doc/sample_screenshot3.png)
 
 L'installation est maintenant terminée.
-Vous pouvez maintenant consulter la [documentation](https://ginhac.com/teaching/archi/manuel-simulateurARM.pdf) du simulateur et commencer à lire le [td1](td1.md).
+Vous pouvez maintenant consulter la [documentation](https://ginhac.com/archi/manuel-simulateurARM.pdf) du simulateur et commencer à lire le [td1](td1.md).

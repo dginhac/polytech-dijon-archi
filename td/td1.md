@@ -4,11 +4,11 @@
 
 Le simulateur supporte toutes les instructions ARMv4 à l'exception des instructions du co-processeur.
 La syntaxe à utiliser est celle présentée dans les
-[spécifications et documentations techniques](https://ginhac.com/teaching/archi/armv4-architecture-reference-manuel.pdf) d’ARM.
+[spécifications et documentations techniques](https://ginhac.com/archi/armv4-architecture-reference-manuel.pdf) d’ARM.
 
-Une [fiche condensée](https://ginhac.com/teaching/archi/armv4-sheet.pdf) des instructions est également disponible.
+Une [fiche condensée](https://ginhac.com/archi/armv4-sheet.pdf) des instructions est également disponible.
 
-Cependant, pour assurer une compatibilité maximale, il est toujours préférable de se reporter à la [documentation du simulateur](https://ginhac.com/teaching/archi/manuel-simulateurARM.pdf) qui décrit la liste exhaustive des instructions utilisables ainsi que leur syntaxe.
+Cependant, pour assurer une compatibilité maximale, il est toujours préférable de se reporter à la [documentation du simulateur](https://ginhac.com/archi/manuel-simulateurARM.pdf) qui décrit la liste exhaustive des instructions utilisables ainsi que leur syntaxe.
 
 > Attention, le simulateur impose :
 > * Toutes les mnémoniques (MOV, LDR, BL, etc.) doivent être écrites en **majuscules**
@@ -19,7 +19,7 @@ Cependant, pour assurer une compatibilité maximale, il est toujours préférabl
 ## Exercice 1 : Addition de nombres stockés dans des registres
 
 Cet exercice utilise les instructions ```MOV``` et ```ADD```.
-Pour plus d'information sur la syntaxe, voir la page 19 de la [documentation du simulateur](https://ginhac.com/teaching/archi/manuel-simulateurARM.pdf) pour les deux instructions.
+Pour plus d'information sur la syntaxe, voir la page 19 de la [documentation du simulateur](https://ginhac.com/archi/manuel-simulateurARM.pdf) pour les deux instructions.
 
 Après avoir analysé la syntaxe de ```MOV``` et ```ADD```, écrivez un programme qui additionne deux valeurs stockées dans des registres :
 * La première valeur 0xF7 est stockée dans le registre R0
@@ -220,7 +220,7 @@ val4 ASSIGN32 0x40
 ```
 
 Exécutez ce code et trouvez dans la mémoire programme les valeurs sur 4 octets des instructions ```ADD R6, R2, R1``` et ```ADD R7, R4, R5```.
-En vous aidant de la documentation [ARM](https://ginhac.com/teaching/archi/armv4-architecture-reference-manuel.pdf) (voir section A3.4), comprenez comment les numéros des registres sont encodés dans l'instruction ```ADD```.
+En vous aidant de la documentation [ARM](https://ginhac.com/archi/armv4-architecture-reference-manuel.pdf) (voir section A3.4), comprenez comment les numéros des registres sont encodés dans l'instruction ```ADD```.
 
 ## Exercice 10 : Modification de code
 
