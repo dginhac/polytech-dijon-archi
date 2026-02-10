@@ -46,10 +46,12 @@ Ils sont disponibles au téléchargement au format pdf :
 ### TD 2025-2025
 
 Les sujets de TD sont disponibles :
-
-* [TD 0](td/td0.md) : Installation du simulateur ARM - Mis à jour le 03/12/2025
-* [TD 1](td/td1.md) : Initiation à la programmation assembleur ARM - Corrections disponibles - Mis à jour le 03/12/2025
-* [TD 2](td/td2.md) : Conditions, branchements, fonctions, pile - Corrections disponibles - Mis à jour le 03/12/2025
+* [Logique TD1](td/logique/TD1-logique.pdf) : Logique booleene - Mis à jour le 03/12/2025
+* [Logique TD2](td/logique/TD2-encodage.pdf) : Arithmétique des ordinateurs et codage - Mis à jour le 03/12/2025
+* [Logique TD2 Corrigé](td/logique/Corrige-TD2.pdf) : Corrigé - Arithmétique des ordinateurs et codage - Mis à jour le 03/12/2025
+* [Assembleur TD 0](td/assembleur/td0.md) : Installation du simulateur ARM - Mis à jour le 03/12/2025
+* [assembleur TD 1](td/assembleur/td1.md) : Initiation à la programmation assembleur ARM - Corrections disponibles - Mis à jour le 03/12/2025
+* [assembleur TD 2](td/assembleur/td2.md) : Conditions, branchements, fonctions, pile - Corrections disponibles - Mis à jour le 03/12/2025
 
 Les corrections des TD sont disponibles dans le répertoire [solutions](td/solutions).
 
