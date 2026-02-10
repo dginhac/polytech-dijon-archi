@@ -53,7 +53,7 @@ Les sujets de TD sont disponibles :
 * [assembleur TD 1](td/assembleur/td1.md) : Initiation à la programmation assembleur ARM - Corrections disponibles - Mis à jour le 03/12/2025
 * [assembleur TD 2](td/assembleur/td2.md) : Conditions, branchements, fonctions, pile - Corrections disponibles - Mis à jour le 03/12/2025
 
-Les corrections des TD sont disponibles dans le répertoire [solutions](td/solutions).
+Les corrections des TD d'assembleur sont disponibles dans le répertoire [solutions](td/assembleur/solutions).
 
 
 ### TP 2025-2026
