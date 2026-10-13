@@ -9,23 +9,23 @@ Les documents disponibles sur ce dépot GitHub sont à destination des étudiant
 [Polytech Dijon](https://polytech.ube.fr/) - Dijon - France.
 Ils sont susceptibles d'évoluer au fil du temps.
 
-## Année 2025 - 2026
+## Année 2026 - 2027
 
 ### Les news
 
-* 03/12/2025 : Mise en ligne des cours 2025-2026
+* 13/10/2026 : Mise en ligne des cours 2026-2027
 
-### Cours 2025-2026
+### Cours 2026-2027
 
 Les cours sont organisés en chapitres, chacun d'entre eux étant dédiés à un aspect spécifique du module.
 Ils sont disponibles au téléchargement au format pdf :
 
-* Chapitre 00 : [Introduction](https://ginhac.com/archi/00-intro.pdf) - 14 MB - Mis à jour le 03/12/2025
-* Chapitre 01 : [Logique Booléenne](https://ginhac.com/archi/01-logique.pdf) - 8 MB - Mis à jour le 03/12/2025
-* Chapitre 02 : [Encodage binaire](https://ginhac.com/archi/02-encodage.pdf) - 9 MB - Mis à jour le 03/12/2025
-* Chapitre 03 - [Architecture d'un processeur](https://ginhac.com/archi/03-architecture.pdf) - 9 MB - Mis à jour le 03/12/2025
-* Chapitre 04 - [Processeur et Jeu d'instructions](https://ginhac.com/archi/04-processeur.pdf) - 11 MB - Mis à jour le 03/12/2025
-* Chapitre 05 - [Architecture ARM](https://ginhac.com/archi/05-arm-architecture.pdf) - 17 MB - Mis à jour le 03/12/2025
+* Chapitre 00 : [Introduction](https://ginhac.com/archi/00-intro.pdf) - 14 MB - Mis à jour le 13/10/2026
+* Chapitre 01 : [Logique Booléenne](https://ginhac.com/archi/01-logique.pdf) - 8 MB - Mis à jour le 13/10/2026
+* Chapitre 02 : [Encodage binaire](https://ginhac.com/archi/02-encodage.pdf) - 9 MB - Mis à jour le 13/10/2026
+* Chapitre 03 - [Architecture d'un processeur](https://ginhac.com/archi/03-architecture.pdf) - 9 MB - Mis à jour le 13/10/2026
+* Chapitre 04 - [Processeur et Jeu d'instructions](https://ginhac.com/archi/04-processeur.pdf) - 11 MB - Mis à jour le 13/10/2026
+* Chapitre 05 - [Architecture ARM](https://ginhac.com/archi/05-arm-architecture.pdf) - 17 MB - Mis à jour le 13/10/2026
 * A suivre ...
 
 <!---
@@ -43,7 +43,7 @@ Ils sont disponibles au téléchargement au format pdf :
 * 29/11/2023 : Ajout du Chapitre 00 - [Introduction](https://ginhac.com/archi/00-intro.pdf)
 --->
 
-### TD 2025-2025
+### TD 2026-2027
 
 Les sujets de TD sont disponibles :
 * [Logique TD1](td/logique/TD1-logique.pdf) : Logique booleene - Mis à jour le 03/12/2025
@@ -56,12 +56,22 @@ Les sujets de TD sont disponibles :
 Les corrections des TD d'assembleur sont disponibles dans le répertoire [solutions](td/assembleur/solutions).
 
 
-### TP 2025-2026
+### TP 2026-2027
 
 Le sujet de TP est disponible.
 * [TP](tp/tp.md) : Calculatrice à Notation Polonaise Inverse - Mis à jour le 03/12/2025
 
 ## Années précédentes
+
+### Cours 2025-2026
+
+* Chapitre 00 : [Introduction](https://ginhac.com/archi/00-intro.pdf) - 14 MB - Mis à jour le 03/12/2025
+* Chapitre 01 : [Logique Booléenne](https://ginhac.com/archi/01-logique.pdf) - 8 MB - Mis à jour le 03/12/2025
+* Chapitre 02 : [Encodage binaire](https://ginhac.com/archi/02-encodage.pdf) - 9 MB - Mis à jour le 03/12/2025
+* Chapitre 03 - [Architecture d'un processeur](https://ginhac.com/archi/03-architecture.pdf) - 9 MB - Mis à jour le 03/12/2025
+* Chapitre 04 - [Processeur et Jeu d'instructions](https://ginhac.com/archi/04-processeur.pdf) - 11 MB - Mis à jour le 03/12/2025
+* Chapitre 05 - [Architecture ARM](https://ginhac.com/archi/05-arm-architecture.pdf) - 17 MB - Mis à jour le 03/12/2025
+
 
 ### Cours 2024-2025
 
